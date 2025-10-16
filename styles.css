@@ -124,7 +124,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url("https://raw.githubusercontent.com/aldvnian/portfolio2.0/refs/heads/main/Floating%20Yellow%20Rotary%20Phones.png") no-repeat center center/cover;
+    background: url("https://raw.githubusercontent.com/aldvnian/portfolio2.0/refs/heads/main/parallax-background.jpg") no-repeat center center/cover;
 }
 
 .background {
